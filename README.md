@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Project Setup
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- Run `npm install`
+- Copy `.env.example` into `.env`
 
 ## Available Scripts
 
