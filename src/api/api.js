@@ -1,4 +1,4 @@
-export function getCharacters(params) { // {page: 1, name: rick}
+export function getCharacters(params) {
 	let res = process.env.REACT_APP_API_URL + '/character?';
 
 	for(let param in params) {
